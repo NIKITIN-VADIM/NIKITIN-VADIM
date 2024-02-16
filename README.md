@@ -1,4 +1,13 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=119810&random=false&width=435&lines=Hi+there+%F0%9F%91%8B++I'm+Vadim;Java+Developer+from+Russia" alt="Typing SVG" /></a>
+
+<a href="mailto:vadim.nikitin@live.com">
+  <img src="https://img.shields.io/badge/Email-darkgreen?style=for-the-badge&logo=Email&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/nikitin_vadim">
+  <img src="https://img.shields.io/badge/Telegram-darkgreen?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://mastodon.social/@nikitin">
+  <img src="https://img.shields.io/badge/Mastodon-darkgreen?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon"/></a>
+
+
 
 <!--
 **NIKITIN-VADIM/NIKITIN-VADIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
