@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=119810&random=false&width=435&lines=Hi+there+%F0%9F%91%8B++I'm+Vadim" alt="Typing SVG" /></a>
 
 <a href="mailto:vadim.nikitin@live.com">
-  <img src="https://img.shields.io/badge/Email-darkgreen?style=for-the-badge&logo=Mail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Gmail-darkgreen?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://t.me/nikitin_vadim">
   <img src="https://img.shields.io/badge/Telegram-darkgreen?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://mastodon.social/@nikitin">
