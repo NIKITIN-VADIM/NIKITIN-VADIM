@@ -15,6 +15,12 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" title="Java" alt="Java" width="60" height="40"/>&nbsp;
    </div>
 
+ --- 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **NIKITIN-VADIM/NIKITIN-VADIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
