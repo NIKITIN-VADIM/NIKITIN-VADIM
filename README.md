@@ -11,8 +11,15 @@
  --- 
   <a/> Languages and Tools :</a>
     
-   <div><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" title="Java" alt="Java" width="60" height="40"/>&nbsp;
+   <div><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" title="Rust" alt="Rust" width="60" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="60" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSql" alt="PostgreSql" width="60" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="60" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="65" height="50"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
    </div>
 
  --- 
