@@ -19,7 +19,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="65" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/NIKITIN-VADIM/NIKITIN-VADIM/blob/main/solana-sol-icon.svg" title="Solana" alt="Solana" width="40" height="40"/>&nbsp;
    </div>
 
  --- 
